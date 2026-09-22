@@ -1,6 +1,5 @@
-Absolutely. If this is your **final Python test**, I would include the complete syllabus from basic Python through **OOP, NumPy, Pandas, and Matplotlib**, with a balanced **theory + practical** structure.
 
-# 🐍 Final Python Test — Theory + Practical
+# Final Python Test — Theory + Practical
 
 **Total Marks:** 100
 **Time:** 3 Hours
