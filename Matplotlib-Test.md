@@ -1,5 +1,3 @@
-Sure. Here is a **50-mark Matplotlib practical task** suitable for an intermediate-level Python student. It covers arrays, line plots, bar charts, scatter plots, histograms, labels, titles, legends, and subplots.
-
 ## Matplotlib Practical Task — 50 Marks
 
 ### Dataset
