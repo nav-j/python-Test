@@ -1,5 +1,3 @@
-Sure. Here is the complete solution for the **Product Management System** task.
-
 ## MySQL Solution
 
 ### Q1. Create Database and Table
