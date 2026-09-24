@@ -1,6 +1,4 @@
-Sure. Here is a **50-mark Pandas Practical Test with exactly 5 questions**, covering all the topics you listed.
-
-# 🐼 Pandas Practical Test
+#  Pandas Practical Test
 
 **Total Marks: 50**
 **Time: 90 Minutes**
