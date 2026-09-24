@@ -1,5 +1,3 @@
-Absolutely. Below is the **complete solution** for the 50-mark Matplotlib practical task.
-
 ## Solution
 
 ### Common Dataset
