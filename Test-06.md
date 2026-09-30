@@ -1,5 +1,3 @@
-Sure. Here is a **slightly advanced Python test** that requires students to combine concepts rather than solve each topic separately.
-
 # 🐍 Python Programming Test – Intermediate Level
 
 **Topics:** Operators, `if-elif-else`, Loops, Functions
@@ -307,5 +305,3 @@ Students must use:
 | Q6        | Function + Loop + Conditions |      8 |
 | Q7        | **Mixed Advanced Problem**   |      8 |
 | **Total** |                              | **50** |
-
-This version is more suitable for an **intermediate Python practical test** because students have to combine multiple concepts in the same problem rather than writing isolated programs.
