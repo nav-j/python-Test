@@ -4,20 +4,6 @@
 **Time: 90 Minutes**
 **Level: Intermediate**
 
-### Topics Covered
-
-* Pandas Series
-* Reading CSV files
-* Data analysis
-* Cleaning empty cells
-* Cleaning wrong formats
-* Cleaning wrong data
-* Removing duplicates
-* Correlation
-* Data visualization / plotting
-
----
-
 ## Q1. Pandas Series — 10 Marks
 
 Create the following Pandas Series:
@@ -178,7 +164,3 @@ Perform the following:
 | **Q4**    | Wrong Data + Duplicates    |     10 |
 | **Q5**    | Correlation + Plotting     |     10 |
 | **Total** |                            | **50** |
-
-### Skills tested
-
-**Series → CSV → DataFrame → Analysis → Missing values → `fillna()` → Datetime conversion → Wrong data → Duplicates → `drop_duplicates()` → Correlation → Line plot → Scatter plot**
