@@ -1,5 +1,3 @@
-Sure. Below are the **complete solutions for all 5 Python practical tasks**, written at a beginner/intermediate level and matching the questions exactly.
-
 ## Task 1 — Student Marks System — 10 Marks
 
 ```python
