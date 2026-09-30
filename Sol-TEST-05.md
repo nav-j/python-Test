@@ -1,5 +1,3 @@
-Below are the complete solutions for all **5 questions**. Each solution is written at a beginner-friendly level and uses the concepts specified in the task.
-
 # 🐍 Python Practical Test — Solutions
 
 ## Q1. Electricity Bill Calculator
