@@ -3,7 +3,7 @@
 
 **Total Marks:** 100
 **Time:** 3 Hours
-**Theory:** 40 Marks
+**Theory:** 40 marks
 **Practical:** 60 Marks
 
 ### Topics Covered
