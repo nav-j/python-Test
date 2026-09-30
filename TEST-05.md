@@ -1,5 +1,3 @@
-Here is the complete **50-mark Python practical test**, with the five mixed questions you selected.
-
 # 🐍 Python Practical Test
 
 **Topics:** Operators, Conditional Statements, Loops, `match-case`
@@ -133,20 +131,3 @@ Write a Python program to create a simple **shopping bill system**.
   * Total amount
   * Discount amount
   * Final payable amount
-
-**Concepts:** loops, `if-elif-else`, arithmetic operators, multiplication, addition, percentage calculation
-
----
-
-## 📌 Topics Covered
-
-| Topic                  | Questions      |
-| ---------------------- | -------------- |
-| Arithmetic Operators   | Q1, Q3, Q4, Q5 |
-| Comparison Operators   | Q1, Q2         |
-| Conditional Statements | Q1, Q2, Q4, Q5 |
-| `match-case`           | Q3             |
-| `for` / `while` Loop   | Q2, Q4, Q5     |
-| Modulus `%` Operator   | Q4             |
-| `break`                | Q2             |
-| User Input             | All Questions  |
