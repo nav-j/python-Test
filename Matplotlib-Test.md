@@ -103,5 +103,3 @@ for the first plot and appropriate subplot positions for the remaining three.
 Add a suitable title to each subplot and display the complete figure.
 
 ### Total: **50 Marks**
-
-**Concepts tested:** `plot()`, `bar()`, `scatter()`, `hist()`, `subplot()`, `xlabel()`, `ylabel()`, `title()`, `legend()`, `show()`, NumPy arrays.
