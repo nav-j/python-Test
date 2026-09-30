@@ -1,5 +1,3 @@
-Sure. Here is a **50-mark Python practical task** focused specifically on **Sets and Dictionaries**, with a mix of basic and practical operations.
-
 # Python Practical Task — Sets & Dictionaries
 
 **Total Marks: 50**
@@ -126,28 +124,3 @@ Write a program to:
 3. Find students present **only in Batch 2**.
 4. Find the marks of students who are present in **both batches**.
 5. Find the **highest-scoring student among the students present in both batches**.
-
----
-
-### Concepts Covered
-
-| Concept                       | Included |
-| ----------------------------- | -------- |
-| Creating Sets                 | ✅        |
-| `add()`                       | ✅        |
-| `update()`                    | ✅        |
-| `remove()`                    | ✅        |
-| `in` operator                 | ✅        |
-| Union `\|`                    | ✅        |
-| Intersection `&`              | ✅        |
-| Difference `-`                | ✅        |
-| Creating Dictionaries         | ✅        |
-| Accessing Dictionary Values   | ✅        |
-| Updating Values               | ✅        |
-| Adding Key-Value Pairs        | ✅        |
-| `keys()`                      | ✅        |
-| `values()`                    | ✅        |
-| Dictionary Loops              | ✅        |
-| `max()` / `min()`             | ✅        |
-| Average Calculation           | ✅        |
-| Combining Sets + Dictionaries | ✅        |
