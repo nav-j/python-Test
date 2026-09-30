@@ -1,8 +1,5 @@
 # Intermediate NumPy Mixed Practical Task — 10 Questions
 
-**Topics:** Array Creation, Indexing, Slicing, Data Types, Copy, View, Shape, Reshape, and Iterating
-
-**Instructions:** Use `import numpy as np`. Each question combines multiple NumPy concepts rather than testing them separately.
 
 ### 1. Student Marks Array
 
